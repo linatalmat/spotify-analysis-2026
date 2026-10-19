@@ -1,0 +1,17 @@
+# Environnement Python 
+.venv/
+venv/
+
+__pycache__/
+*.py[cod]
+
+# Configuration locale
+.Env
+.vscod/
+
+#jupyter
+.ipynb_checkpoints/
+
+#Fichier systeme 
+.DS_Store
+Thumbs.db 
