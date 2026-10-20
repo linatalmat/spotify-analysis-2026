@@ -94,9 +94,12 @@ La popularité des morceaux peut également évoluer dans le temps. Les résulta
 
 9_ Installation et utilisation 
 
-//CLONER LE PROJET //
 
-git clone https://github.com/linatalmat/spotify-analysis-2026.git 
+### 1. Cloner le projet
+
+```bash
+git clone https://github.com/linatalmat/spotify-analysis-2026.git
+cd spotify-analysis-2026
 
 //CREE UN ENVIRONNEMENT VIRTUEL //
 
